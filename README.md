@@ -8,10 +8,13 @@ Jawab: Static web server adalah web server yang terdiri atas hardware (komputer)
   
 Jawab: Seperti yang dapat dilihat pada gambar di bawah, web server akan mencari halaman yang di request oleh web browser dan mengembalikan page tersebut ke browser yang melakukan request.  
   
-    
+![static web](https://user-images.githubusercontent.com/68385532/152095338-bef013b5-cbec-46fd-be13-3f9fbe372ae7.jpg)
+
       
 Sedangkan pada dynamic site, web server akan membuat konten respon secara dinamis hanya ketika dibutuhkan.Pada website dinamis, halaman HTML biasanya dibuat dengan memasukkan data dari database ke dalam placeholder yang terdapat dalam template HTML.  
-  
+
+![dinamic web](https://user-images.githubusercontent.com/68385532/152095327-9de26dde-0dd6-4bd6-907f-535ef627df4f.jpg)  
+
   
 3. Apa saja yang dapat kita buat pada sisi server?  
   
